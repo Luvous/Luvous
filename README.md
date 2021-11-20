@@ -28,4 +28,3 @@ const tom = {
 
 
 <img src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/source.gif" width="900" height="481" alt="Vaporwave GIF"/>
-
