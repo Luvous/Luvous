@@ -23,5 +23,5 @@ const tom = {
 ```
 <img src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/source.gif" width="900" height="581" alt="Vaporwave GIF"/>
 
-### Contact me...
- thomasvarela2001@outlook.es
+## Contact me...
+### thomasvarela2001@outlook.es
