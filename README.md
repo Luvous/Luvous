@@ -6,7 +6,7 @@
 ![Badge VS Code](https://img.shields.io/badge/Code-Javascript-orange?logo=javascript&style=flat-square)
 ![Badge VS Code](https://img.shields.io/badge/Code-Node.js-orange?logo=nodedotjs&style=flat-square)
 ![Badge VS Code](https://img.shields.io/badge/Code-jQuery-orange?logo=jquery&style=flat-square)
-### About me...
+## About me...
 
 ```javascript
 const tom = {
