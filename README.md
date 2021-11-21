@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Oy4nobvUxIonu/giphy.gif" width="900" height="481" alt="Vaporwave GIF"/>
+<img src="https://media.giphy.com/media/Oy4nobvUxIonu/giphy.gif" width="900" height="521" alt="Vaporwave GIF"/>
 
 # Hi! I'm Tom!
 ![Badge Windows 10](https://img.shields.io/badge/OS-W%2010-orange?logo=windows&style=flat-square)
