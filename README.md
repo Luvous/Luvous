@@ -11,6 +11,7 @@
 ```javascript
 const tom = {
   origin: "Uruguay",
+  currentPlace: "Buenos Aires, Argentina",
   code: ['Javascript', 'Kotlin', 'HTML', 'CSS'],
   tools: ['React', 'Node.js', 'MongoDB', 'EJS', 'Heroku', 'Firebase'],
   interests: ["Graphic Designer", "Fullstack Web Developer"],
