@@ -11,8 +11,8 @@
 ```javascript
 const tom = {
   origin: "Uruguay",
-  code: ['Javascript', 'HTML', 'CSS'],
-  tools: ['Node.js', 'MongoDB', 'EJS'],
+  code: ['Javascript', 'Kotlin', 'HTML', 'CSS'],
+  tools: ['React', 'Node.js', 'MongoDB', 'EJS', 'Heroku', 'Firebase'],
   interests: ["Graphic Designer", "Fullstack Web Developer"],
   currentStatus: "I'm currently learning React and Kotlin",
   extra: {
