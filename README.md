@@ -26,7 +26,7 @@ const tom = {
 ## Contact me...
 ### thomasvarela2001@outlook.es
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvous&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/source.gif" width="900" height="481" alt="Vaporwave GIF"/>
