@@ -12,12 +12,11 @@
 const tom = {
   origin: "Uruguay",
   currentPlace: "Buenos Aires, Argentina",
-  code: ['Javascript', 'Kotlin', 'HTML', 'CSS'],
-  tools: ['React', 'Node.js', 'MongoDB', 'EJS', 'Heroku', 'Firebase'],
+  code: ['Javascript', 'HTML and CSS', 'React', 'Node', 'MongoDB', 'EJS', 'Heroku', 'Firebase'],
   interests: ["Graphic Designer", "Fullstack Web Developer"],
   currentStatus: "I'm currently learning Kotlin and C#",
-  extra: {
-          favMusicGenre: ['Punk-Pop', 'Punk-Rock'],
+  favorites: {
+          favMusicGenre: ['Pop Punk', 'Punk Rock'],
           favMovies: ['Death of a Superhero', 'Inside Llewyn Davis', 'Blue Valentine', 'Trainspotting'],
   }
 }
